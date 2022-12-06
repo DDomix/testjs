@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DDomix/testjs/issues"
   },
-  "homepage": "https://github.com/DDomix/testjs#readme"
+  "homepage": "https://github.com/DDomix/testjs#readme",
+  "dependencies": {
+    "sass": "^1.56.1"
+  }
 }
